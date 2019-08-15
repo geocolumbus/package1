@@ -1,0 +1,8 @@
+{
+    "name": "@geocolumbus/package1",
+    "version": "0.0.2",
+    "main": "src/index.js",
+    "repository" : "https://github.com/geocolumbus/package1",
+    "description":"A test repo for learning node package design."
+}
+
