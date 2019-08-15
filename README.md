@@ -1,4 +1,5 @@
-[!coverage](https://img.shields.io/npm/v/@gecolumbus/package1)
-
 # package1
+
+![coverage](https://img.shields.io/npm/v/@geocolumbus/package1)
+
 A simple npm package
